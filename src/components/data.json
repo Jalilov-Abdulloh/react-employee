@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Abdulloh",
+        "surname": "Jalilov",
+        "netWorth": "$999999999999999999999999999999999999999999999999999999 mlrd",
+        "city": "Tashkent"
+    },
+    {
+        "id": "2",
+        "name": "Muhammad",
+        "surname": "Mahamadjovon",
+        "netWorth": "$9 mlrd",
+        "city": "Tashkent"
+    },
+    {
+        "id": "3",
+        "name": "temur",
+        "surname": "Mahamadjovon",
+        "netWorth": "$9 mlrd",
+        "city": "Tashkent"
+    },
+    {
+        "id": "4",
+        "name": "Fotma",
+        "surname": "Mahamadjovon",
+        "netWorth": "$9 mlrd",
+        "city": "Tashkent"
+    },
+    {
+        "id": "5",
+        "name": "Hulkar",
+        "surname": "Mahamadjovon",
+        "netWorth": "$9 mlrd",
+        "city": "Tashkent"
+    },
+    {
+        "id": "6",
+        "name": "Kmdr",
+        "surname": "Mahamadjovon",
+        "netWorth": "$9 mlrd",
+        "city": "Tashkent"
+    }
+]
